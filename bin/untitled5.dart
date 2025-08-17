@@ -4,5 +4,6 @@ main(){
 
   print("Git update");
 
+  print('Git operation');
 
 }
